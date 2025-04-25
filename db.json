@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "mrenda",
+      "image": "https://cdn.standardmedia.co.ke/images/wysiwyg/images/6UXyytmgBRcF8nVchnNF9zulKKYzAoRjYkjZooNs.jpg",
+      "price": "0.06",
+      "id": 8
     }
   ]
 }
